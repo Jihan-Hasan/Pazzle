@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
             PazzleTheme {
                 // A surface container using the 'background' color from the theme
                 GameScreen()
+                // This is edited from Github
             }
         }
     }
